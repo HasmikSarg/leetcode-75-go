@@ -7,6 +7,10 @@ Go solutions for LeetCode 75 study plan with time and space complexity analysis.
 **Array / String**
 
 - [1768. Merge Strings Alternately](solutions/arraystring/merge_strings_alternately.go)
+- [1071. Greatest Common Divisor of Strings](solutions/arraystring/gcd_of_strings.go)
+- [1431. Kids With the Greatest Number of Candies](solutions/arraystring/kids_with_the_greatest_number_of_candies.go)
+- [605. Can Place Flowers](solutions/arraystring/can_place_flowers.go)
+- [345. Reverse Vowels of a String](solutions/arraystring/reverse_vowels_of_a_string.go)
 
 **Two Pointers**
 
@@ -36,3 +40,7 @@ Go solutions for LeetCode 75 study plan with time and space complexity analysis.
 
 - [933. Number of Recent Calls](solutions/queue/number_of_recent_calls.go)
 - [649. Dota2 Senate](solutions/queue/dota2_senate.go)
+
+**Linked List**
+
+- [206. Reverse Linked List](solutions/linkedlist/reverse_linked_list.go)
